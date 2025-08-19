@@ -15,7 +15,7 @@ A React-based frontend application for uploading documents and asking AI-powered
 - **React 18** - Frontend framework
 - **Vite** - Build tool and dev server
 - **CSS3** - Modern styling with Flexbox/Grid
-- **Fetch API** - HTTP requests
+- **Fetch API** - HTTP,HTTPS requests
 - **ESLint** - Code linting
 
 ## 📦 Installation
